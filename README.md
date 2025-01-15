@@ -1,2 +1,2 @@
 # Coin-Flip-Challenge
-Code showcasing while loop as use during coin flip
+Code showcasing random function as use during coin flip
